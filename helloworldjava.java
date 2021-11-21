@@ -1,6 +1,6 @@
 public class helloworldjava {
    public static void main(String[] args) {
-    System.out.println("Hello World from DevOps to test webhooks");
+    System.out.println("Hello World from DevOps to my test webhooks");
     }
 }
 
